@@ -1,0 +1,8 @@
+C:\Users\jfuex\Documents\work\CapInYoApp\CapInYoApp\bin\Release\BustACapInYourApp.exe.config
+C:\Users\jfuex\Documents\work\CapInYoApp\CapInYoApp\bin\Release\BustACapInYourApp.exe
+C:\Users\jfuex\Documents\work\CapInYoApp\CapInYoApp\bin\Release\BustACapInYourApp.pdb
+C:\Users\jfuex\Documents\work\CapInYoApp\CapInYoApp\obj\Release\BustACapInYourApp.sysTrayForm.resources
+C:\Users\jfuex\Documents\work\CapInYoApp\CapInYoApp\obj\Release\BustACapInYourApp.Properties.Resources.resources
+C:\Users\jfuex\Documents\work\CapInYoApp\CapInYoApp\obj\Release\BustaCapInYoApp.csproj.GenerateResource.Cache
+C:\Users\jfuex\Documents\work\CapInYoApp\CapInYoApp\obj\Release\BustACapInYourApp.exe
+C:\Users\jfuex\Documents\work\CapInYoApp\CapInYoApp\obj\Release\BustACapInYourApp.pdb

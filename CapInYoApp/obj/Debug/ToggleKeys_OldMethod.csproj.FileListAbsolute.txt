@@ -1,0 +1,7 @@
+C:\Users\jfuex\Documents\work\ToggleKeys\ToggleKeys_OldMethod\obj\Debug\ToggleKeys_OldMethod.csproj.GenerateResource.Cache
+C:\Users\jfuex\Documents\work\ToggleKeys\ToggleKeys_OldMethod\obj\Debug\BustACapInYourApp.Properties.Resources.resources
+C:\Users\jfuex\Documents\work\ToggleKeys\ToggleKeys_OldMethod\bin\Debug\BustACapInYourApp.exe
+C:\Users\jfuex\Documents\work\ToggleKeys\ToggleKeys_OldMethod\bin\Debug\BustACapInYourApp.pdb
+C:\Users\jfuex\Documents\work\ToggleKeys\ToggleKeys_OldMethod\obj\Debug\BustACapInYourApp.exe
+C:\Users\jfuex\Documents\work\ToggleKeys\ToggleKeys_OldMethod\obj\Debug\BustACapInYourApp.pdb
+C:\Users\jfuex\Documents\work\ToggleKeys\ToggleKeys_OldMethod\obj\Debug\BustACapInYourApp.sysTrayForm.resources
